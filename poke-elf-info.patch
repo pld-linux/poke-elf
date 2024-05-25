@@ -1,0 +1,14 @@
+--- poke-elf-1.0/poke-elf.texi.orig	2024-03-30 19:50:52.000000000 +0100
++++ poke-elf-1.0/poke-elf.texi	2024-05-25 09:27:15.714668580 +0200
+@@ -18,9 +18,9 @@ later version.
+ @end quotation
+ @end copying
+ 
+-@dircategory GNU poke
++@dircategory File utilities:
+ @direntry
+-* poke-elf: (poke-elf). ELF pickles for GNU poke.
++* poke-elf: (poke-elf).			ELF pickles for GNU poke
+ @end direntry
+ 
+ @titlepage
