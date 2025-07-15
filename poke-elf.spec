@@ -29,7 +29,7 @@ zrzutów pamięci. Obsługuje wiele architektur i rozszerzeń.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P0 -p1
 
 %{__sed} -i -e '1s,/usr/bin/env sh,/bin/sh,' examples/prelinkr
 
